@@ -28,4 +28,4 @@ async function resolvePromise() {
     .catch(err => console.log(err.message))
 
   return resolved
-}
+ } 
