@@ -12,3 +12,7 @@ Nesta atividade, vamos criar uma página que carrega fotos aleatórias de gatinh
 ## Demo
 
 ![catAPI](./api-cats.gif)
+
+## Estudos Prévios
+
+Foram feitos estudos préviso para realizar essa atividade, presentes no arquivo 'studies.js'.
